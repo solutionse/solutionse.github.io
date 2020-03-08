@@ -103,6 +103,7 @@ footer a:hover{
 footer{
   color: goldenrod;
   background-color: grey;
+  padding-bottom: 1rem;
 }
 
 .tm-container-custom{
