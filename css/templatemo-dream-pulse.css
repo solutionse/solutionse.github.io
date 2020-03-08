@@ -72,8 +72,13 @@ a {
   align-items: center;
   height: auto;
   max-width: 1275px;
-  padding: 66px 60px;
+  /* padding: 66px 60px; */
 }
+
+.tm-service-top{
+  padding-top: 2.5rem;
+}
+
 
 #intro {
   min-height: 100vh;
